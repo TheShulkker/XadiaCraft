@@ -5,6 +5,6 @@ This RPG modpack contains a quest system (FTB quests) that revolves around the v
 For instance:
 - Magic
 - combat
--exploration
--Create mod machines
+- exploration
+- Create mod machines
 - bosses
